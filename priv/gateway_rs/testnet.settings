@@ -11,3 +11,5 @@ uri = "http://3.17.164.253:8080"
 [[gateways]]
 pubkey = "1ZAxCrEsigGVbLUM37Jki6p88kyZ5NVqjVC6oHSbqu49t7bQDym"
 uri = "http://18.191.60.231:8080"
+
+[router]
